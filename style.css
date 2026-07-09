@@ -26,8 +26,10 @@ header{
 }
 
 header h1{
-    color:#b8860b;
-    font-size:30px;
+    color:#6B3F1D;
+    font-size:38px;
+    letter-spacing:1px;
+    font-weight :700
 }
 
 nav a{
@@ -181,8 +183,8 @@ section{
 }
 
 .logo img{
-    width:220px;
-    max-width:90%;
+    width: 260px;
+    max-width:100%;
     height:auto;
     display:block;
     margin:auto;
@@ -200,7 +202,7 @@ header{
 }
 
 .logo img{
-    width:160px;
+    width:190px;
     height:auto;
 }
 
@@ -216,9 +218,10 @@ header{
 }
 
 .company-name p{
-    margin-top:5px;
+    margin-top:6px;
     color:#666;
-    font-size:16px;
+    font-size:18px;
+    font-weight:500;
 }
 
 nav{
