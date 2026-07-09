@@ -200,7 +200,7 @@ header{
 }
 
 .logo img{
-    width:120px;
+    width:160px;
     height:auto;
 }
 
@@ -212,7 +212,7 @@ header{
 .company-name h1{
     margin:0;
     color:#b8860b;
-    font-size:32px;
+    font-size:38px;
 }
 
 .company-name p{
@@ -234,4 +234,79 @@ nav a{
 
 nav a:hover{
     color:#b8860b;
+}
+.vip{
+
+background:#fff8ec;
+
+padding:80px 20px;
+
+text-align:center;
+
+border-top:3px solid #d4af37;
+
+border-bottom:3px solid #d4af37;
+
+}
+
+.vip h2{
+
+font-size:40px;
+
+color:#b8860b;
+
+margin-bottom:20px;
+
+}
+
+.vip-text{
+
+max-width:800px;
+
+margin:auto;
+
+font-size:20px;
+
+line-height:1.8;
+
+}
+
+.vip-list{
+
+margin:40px 0;
+
+font-size:22px;
+
+line-height:2;
+
+}
+
+.vip-btn{
+
+display:inline-block;
+
+padding:18px 45px;
+
+background:#25D366;
+
+color:white;
+
+text-decoration:none;
+
+font-size:22px;
+
+font-weight:bold;
+
+border-radius:50px;
+
+transition:.3s;
+
+}
+
+.vip-btn:hover{
+
+background:#1da851;
+
+transform:scale(1.05);
+
 }
